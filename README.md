@@ -24,3 +24,21 @@ Week 4: Dynamic Programming
   Practiced all 5 forms of dynamic programming.
   Learned to identify dynamic programming problems and code it using iterative dp.
   Learned space optimisation and time complexity analysis.
+
+Week 5-6: Trees and Graphs
+  Tree traversals (Inorder, Preorder, Postorder – recursive and iterative)
+  Binary Tree, Binary Search Tree, N-ary Tree
+  Depth First Search (DFS) and Breadth First Search (BFS) on trees
+  Lowest Common Ancestor (LCA)
+  Subtree sums, height, diameter of tree
+  Graph representation: adjacency list and matrix
+  Graph traversals: DFS and BFS
+  Cycle detection (DFS and Union-Find)
+  Connected components in graphs
+  Topological sorting
+  Dijkstra’s algorithm
+  Bellman-Ford algorithm
+  Floyd-Warshall algorithm
+  Prim’s and Kruskal’s algorithms (MST)
+  Directed vs Undirected, Weighted vs Unweighted
+  Time and space complexities of graph algorithms
